@@ -1,2 +1,9 @@
-# forEach-map-filter-Exercise
-This is a repo that contains the forEach, map, filter Exercise.
+# Advanced Array Methods Exercises
+
+## This repo contains solutions for the Advanced Array Methods Exercises.
+
+### List of exercies in this repo:
+* forEach,map, and filter Exercise.
+* some and every Exercise.
+* find and findIndex Exercise.
+* reduce Exercise.
