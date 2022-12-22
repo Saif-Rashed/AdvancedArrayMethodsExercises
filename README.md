@@ -7,3 +7,5 @@
 * some and every Exercise.
 * find and findIndex Exercise.
 * reduce Exercise.
+
+#### The code used for these exercises 'html/javascript'
